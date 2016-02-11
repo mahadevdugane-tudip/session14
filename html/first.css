@@ -1,0 +1,21 @@
+﻿
+h1 {
+    color: orange;
+    text-align:center;
+}
+img {
+       float: left;
+    }
+table#t1 {
+ background-color:red;
+}
+h2 { 
+  color:blue;
+}
+
+div.cities{
+    background-color:orange;
+}
+ul { 
+margin-left:300px; 
+}

@@ -1,0 +1,9 @@
+git commit-a
+git pull-
+
+Assignment---
+1 push assignment folders in your own repository(git push origin master)
+                                                (git push)
+2.share your repository urls with each other
+3Add and push some files in other repository.
+4
